@@ -1,0 +1,2 @@
+DISPLAY_ERRORS=Off
+INCLUDE_PATH=.:/opt/app-root/src:/opt/rh/rh-php56/root/usr/share/pear:/opt/app-root/src/web
